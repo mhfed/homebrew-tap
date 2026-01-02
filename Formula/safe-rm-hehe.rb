@@ -3,7 +3,7 @@ class SafeRmHehe < Formula
   homepage "https://github.com/mhfed/safe-rm-hehe"
   url "https://github.com/mhfed/safe-rm-hehe/archive/refs/tags/v0.1.2.tar.gz"
   version "0.1.2" # <--- THÊM DÒNG NÀY ĐỂ FIX LỖI NIL VERSION
-  sha256 "DÁN_MÃ_SHA256_CỦA_BẠN_VÀO_ĐÂY"
+  sha256 "4ecf900d6920734b82228deb8f2f0496cb3fb2d2891a62b7a430f450a24738f5"
   license "MIT"
 
   depends_on "rust" => :build
